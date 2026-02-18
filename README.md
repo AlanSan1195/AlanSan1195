@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Desarrollador Frontend en Guadalajara, México.
 
-Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto: GTA VI me enseñó GSAP, RocketChat me enseñó SSE y patrones de failover, cada cliente me enseña algo diferente.
+Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto: GTA VI me enseñó GSAP, RocketChat me enseñó SSE y patrones de failover, cada projecto me enseña algo diferente, no he aprendido de libros, ni de universidad o carrera, solo la intencion de saber como se hace algo es lo que me ha traido aquí, mi recurso mas grande es la web ❤️....  me encanta el code, y más hoy en día 🤖. 
 
 Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
 
