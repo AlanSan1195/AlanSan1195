@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # Alan San
 
 Desarrollador Frontend en Guadalajara, México.
+
 Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto: GTA VI me enseñó GSAP, RocketChat me enseñó SSE y patrones de failover, cada cliente me enseña algo diferente.
+
 Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
 
