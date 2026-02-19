@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto:  GSAP me sneño a a saber como Appel crea sus paginas,  RocketChat me enseñó a trabajar con implementaciones de herramientas de IA y, clonar y recreear webs me hace entender cosas.... cada proyecto me enseña algo diferente. No he aprendido de libros, ni de universidad o carrera, solo la intención de saber cómo se hace algo es lo que me ha traído aquí. Mi recurso más grande es la web ❤️. Me encanta el código, y más hoy en día 🤖.
+Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto:  GSAP me sneño a a saber como Appel crea sus paginas,  RocketChat me enseñó a trabajar con implementaciones de herramientas de IA, clonar y recreear webs me hace entender cosas.... cada proyecto me enseña algo diferente. No he aprendido de libros, ni de universidad o carrera, solo la intención de saber cómo se hace algo es lo que me ha traído aquí. Mi recurso más grande es la web ❤️. Me encanta el código, y más hoy en día 🤖.
 
 Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
 
