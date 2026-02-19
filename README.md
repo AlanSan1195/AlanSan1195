@@ -16,9 +16,21 @@ Here are some ideas to get you started:
 -->
 # Alan San
 
-Desarrollador Frontend en Guadalajara, México.
+📍 Guadalajara, Jalisco, México
 
-Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto: GTA VI me enseñó GSAP, RocketChat me enseñó SSE y patrones de failover, cada projecto me enseña algo diferente, no he aprendido de libros, ni de universidad o carrera, solo la intencion de saber como se hace algo es lo que me ha traido aquí, mi recurso mas grande es la web ❤️....  me encanta el code, y más hoy en día 🤖. 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6Ii8+PC9zdmc+&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto: GTA VI me enseñó GSAP, RocketChat me enseñó SSE y patrones de failover, cada proyecto me enseña algo diferente. No he aprendido de libros, ni de universidad o carrera, solo la intención de saber cómo se hace algo es lo que me ha traído aquí. Mi recurso más grande es la web ❤️. Me encanta el código, y más hoy en día 🤖.
 
 Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
-
