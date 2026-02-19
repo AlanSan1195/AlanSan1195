@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B35?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
 Llevo +2 años haciendo esto. Empecé copiando diseños que me gustaban y ahora diseño los míos propios. Sigo aprendiendo en cada proyecto: GTA VI me enseñó GSAP, RocketChat me enseñó SSE y patrones de failover, cada proyecto me enseña algo diferente. No he aprendido de libros, ni de universidad o carrera, solo la intención de saber cómo se hace algo es lo que me ha traído aquí. Mi recurso más grande es la web ❤️. Me encanta el código, y más hoy en día 🤖.
 
 Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
+
