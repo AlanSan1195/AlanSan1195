@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-Llevo +2 años desarrolando y enfocado en el frontend, la intención de saber cómo se hace algo es lo que me ha traído hasta este perfil de github. Mi recurso más grande es la web ❤️. Me encanta el código, y más hoy en día 🤖 a ponernos creativos!!, lets-go 🎨
+Llevo +2 años desarrolando y enfocado en el frontend, la intención de saber cómo se hace algo es lo que me ha traído hasta este perfil de github. Mi recurso más grande es la web ❤️. Me encanta el código y más hoy en día 🤖 a ponernos creativos!!, lets-go 🎨
 
 Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
 
