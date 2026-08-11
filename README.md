@@ -1,4 +1,4 @@
-## Ooey minaaa 👋
+## HELLO 👋
 
 <!--
 **AlanSan1195/AlanSan1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 
 ---
 
-Llevo +2 años desarrollando y enfocado en el frontend, la intención de saber cómo se hace algo es lo que me ha traído hasta este perfil de github. Mi recurso más grande es la web ❤️. Me encanta el código y más hoy en día 🤖 a ponernos creativos!!, lets-go 🎨
-
-Si ves algo en mi portafolio que te interesa, escribeme. Me gusta colaborar.
+Mi nombre es Alan Sandoval y me especializo en la creacion de aplicaciones web modernas, me gusta mucho pensar en productos y resolver necesidades de un usario, tengo un especial gusto en UX/UI, la accesibilidad y el diseño. aqui puedes ver algunos de mis proyectos y si ves algo que te guste pues... let's be friends
 
