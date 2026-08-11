@@ -1,5 +1,4 @@
-
-
+## Que tal a todos soy Alan San 👋
 <!--
 **AlanSan1195/AlanSan1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,5 +31,5 @@ Here are some ideas to get you started:
 
 ---
 
-Mi nombre es Alan Sandoval y me especializo en la creacion de aplicaciones web modernas, me gusta mucho pensar en productos y resolver necesidades de un usario, tengo un especial gusto en UX/UI, la accesibilidad y el diseño. aqui puedes ver algunos de mis proyectos y si ves algo que te guste pues... let's be friends
+Soy un chico al que le gusta mucho pensar en productos y resolver necesidades de un usario, tengo un especial gusto en UX/UI, la accesibilidad y el diseño. aqui puedes ver algunos de mis proyectos y si ves algo que te guste pues... let's be friends
 
