@@ -1,4 +1,4 @@
-## Que tal a todos soy Alan San 👋
+## 👋
 <!--
 **AlanSan1195/AlanSan1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Alan San
+# Soy Alan San
 
 📍 Guadalajara, Jalisco, México
 
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ---
 
-Soy un chico al que le gusta mucho pensar en productos y resolver necesidades de un usario, tengo un especial gusto en UX/UI, la accesibilidad y el diseño. aqui puedes ver algunos de mis proyectos y si ves algo que te guste pues... let's be friends
+Un chico al que le gusta mucho pensar en productos y resolver necesidades de un usario, tengo un especial gusto en UX/UI, la accesibilidad y el diseño. aqui puedes ver algunos de mis proyectos y si ves algo que te guste pues... let's be friends
 
